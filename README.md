@@ -260,10 +260,14 @@ The TimoDS dataset is licensed under **CC BY 4.0**
 
 ## Contact
 
-Youssef Derrazi  
+Youssef Derrazi
+
 youssef.derrazi@sdas-group.com
+
 Youssef.DERRAZI@um6p.ma
 
 SDAS Research Group
+
 Universidad de Granada - UGR
+
 University Mohammed VI Polytechnic - UM6P
