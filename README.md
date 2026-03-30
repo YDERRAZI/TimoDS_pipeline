@@ -153,7 +153,7 @@ is required.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/TimoDS_pipeline.git
+git clone https://github.com/YDERRAZI/TimoDS_pipeline.git
 cd TimoDS_pipeline
 ```
 
