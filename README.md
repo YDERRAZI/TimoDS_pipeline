@@ -42,10 +42,9 @@ identifier column:
 | File | Description |
 |------|-------------|
 | `TimoDS_input_data.csv` | Sampling parameters: load case, section metadata, beam length, load position, dimensionless stiffness multipliers κ and ζ |
-| `TimoDS_results.csv` | Physical parameters and structural responses: section properties, physical stiffnesses, all sampled response quantities |
+| `TimoDS_beam_results.csv` | Physical parameters and structural responses: section properties, physical stiffnesses, all sampled response quantities |
 
-The dataset is publicly available at: [Zenodo DOI: to be determined]
-
+The dataset is publicly available at: https://doi.org/10.5281/zenodo.19324944
 ---
 
 ## Repository contents
